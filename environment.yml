@@ -2,8 +2,9 @@ name: bmcs_env
 channels:
 - conda-forge
 dependencies:
-- ipywidgets==7.6.3
-- ipympl==0.7.0
-- matplotlib-base==3.3.3
-- numpy==1.20.3
+- appmode
+- jupyter_contrib_nbextensions
+- matplotlib-base
+- numpy
 - sympy==1.9
+- ipywidgets
