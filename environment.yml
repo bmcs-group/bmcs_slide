@@ -1,0 +1,14 @@
+name: bmcs_env
+channels:
+- conda-forge
+dependencies:
+- appmode
+- jupyter_contrib_nbextensions
+- matplotlib-base
+- numpy
+- scipy
+- ipywidgets
+- pip
+- pip:
+    - bmcs_utils
+    - -e .
