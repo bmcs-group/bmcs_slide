@@ -1,4 +1,5 @@
-# bmcs-slide
+# Interactive notebook for coupled sliding-decohesion-compression model (CSDCM)
+
 Annotated implementation of the coupled sliding-decohesion-compression model
 (SDCM) as a fundamental model component in monotonic and fatigue simulations
 of material and structural behavior.
