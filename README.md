@@ -8,3 +8,6 @@ The jupyter notebook can be started on the binder service to show the
 derivation process using `sympy` and to run elementary examples
 demonstrating the model features and reproducing selected examples
 from the paper.
+
+[![DOI](https://zenodo.org/badge/428258023.svg)](https://zenodo.org/badge/latestdoi/428258023)
+
