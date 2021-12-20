@@ -10,3 +10,4 @@ dependencies:
 - scipy
 - sympy==1.9
 - ipywidgets
+- dill
